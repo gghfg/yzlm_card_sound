@@ -1,5 +1,0 @@
-<sounds root="sounds/">
-    <sound name="LocalCardUse">
-        <sample weight="1" path="card_use.wav" />
-    </sound>
-</sounds>
